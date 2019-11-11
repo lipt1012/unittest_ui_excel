@@ -19,8 +19,6 @@
 
 `read_excel.py`读取excel数据
 
-`get_token.py` 获取登录token
-
 `logs` 日志文件
 
 `test` 测试用例
@@ -28,5 +26,6 @@
 `report` 测试报告
 
 `screenshots` 错误截图
+
 ----
 
